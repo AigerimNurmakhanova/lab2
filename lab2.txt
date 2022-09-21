@@ -1,0 +1,7 @@
+c=int(input())
+if c==1:
+	print("Nurmakhanova Aigerim 4курс ")
+elif c==2:
+	print("Alibai Nurdaulet 4 kurs")
+else: 
+	print("-")
